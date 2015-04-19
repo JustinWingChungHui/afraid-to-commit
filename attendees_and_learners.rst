@@ -8,17 +8,58 @@ or followed the tutorial in their own time.
 Workshops
 =========
 
+Dutch Django Association Sprint in Amsterdam, 7th March 2015
+------------------------------------------------------------
+
+* Remco Kranenburg <remco@burgsoft.nl>
+* Floris den Hengst
+* C.T. Matsumoto <todd@l1nda.nl>
+* Loek van Gent <https://github.com/gannetson>
+* Nathan Schagen
+* Hanna Kollo https://github.com/sztrovacsek
+* Stephen Albert https://github.com/psiloLR
+
+PyCon Ireland in Dublin, 13th October 2014
+------------------------------------------
+
+* Randal McGuckin <randal.mcguckin@gmail.com>
+* Laura Duggan https://github.com/labhra
+* Jenny McGee
+* Conor McGee <mcgeeco@tcd.ie> https://github.com/mcgeeco
+* Nadja Deininger https://github.com/machinelady
+* Andrew McCarthy
+* Brian McDonnell <https://github.com/brianmcdonnell/>
+* Brendan Cahill (https://github.com/brencahill/)
+* Adam Dickey
+* Paul O'Grady (Twitter: @paul_ogrady; GITHub: paulogrady)
+* Jenny DiMiceli - https://github.com/jdimiceli
+* Stephen Kerr
+* Wayne Tong
+* Vinicius Mayer (viniciusmayer@gmail.com) https://github.com/viniciusmayer
+* Dori Czapari https://github.com/doriczapari (@doriczapari)
+* Karl Griffin (karl_griffin@hotmail.com) https://github.com/karlgriffin
+* Vadims Briksins (https://github.com/Briksins)
+
 PyCon UK in Coventry, 20th September 2014
 -----------------------------------------
 
-* Stephen Newey
-* Walter Kummer
+* Matthew Power https://github.com/mthpower
+* Brendan Oates <brenoates@gmail.com>
+* Waldek Herka (https://github.com/wherka)
+* Stephen Newey (@stevenewey) - https://github.com/stevenewey
+* Walter Kummer (work.walter at gmail.com)
 * Craig Barnes
 * Justin Wing Chung Hui
 * Davide Ceretti
 * Paul van der Linden https://github.com/pvanderlinden
-* Gary Martin
+* Gary Martin https://github.com/garym
 * Cedric Da Costa Faro https://github.com/cdcf
+* Sebastien Charret <sebastien.charret@gmail.com> https://github.com/moerin
+* Nick Smith
+* Jonathan Lake-Thomas https://github.com/jonathlt
+* Ben Mansbridge
+* Glen Davies (@GlenDaviesDev) - https://github.com/glen442
+* Mike S Collins (MikeyBoy1969)
 
 DjangoCon US in Portland, 5th September 2014
 --------------------------------------------
@@ -212,3 +253,13 @@ I followed the tutorial online
 * Óscar M. Lage - http://github.com/oscarmlage
 * Bob Aalsma - https://github.com/BobAalsma/
 * Andy Venet - https://github.com/avenet/
+* Vathsala Achar - 22nd September, 2014
+* Amine Zyad <amizya@gmail.com> http://github.com/amizya
+* Xrispies - http://github.com/Xrispies
+* Andrew Morales - October 19, 2014
+* Suraj Deshmukh <surajssd009005@gmail.com> http://github.com/surajssd
+* Suresh - https://github.com/umulingu/
+* Chandra Bandi - 20-December 2014
+* Drew A. - https://github.com/daldin - 12th December 2014
+* Kumar Dheeraj-https://github.com/dhey2k-31-dec-2013
+* Omar - 14-1-2015
